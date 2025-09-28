@@ -1,0 +1,20 @@
+# Ignore Power BI auto-generated and cache files
+*.tmp
+*.bak
+*.cache
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive data files
+*.xlsx
+*.csv
+*.txt
+
+# Ignore Power BI service files
+*.pbitool.json
+
+# Ignore local environment files
+.env
